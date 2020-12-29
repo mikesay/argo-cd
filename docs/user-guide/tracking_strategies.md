@@ -1,4 +1,4 @@
-# Tracking and Deployment Strategies
+# 追踪和部署策略
 
 An Argo CD application spec provides several different ways of tracking Kubernetes resource manifests.
 

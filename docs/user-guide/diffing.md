@@ -1,4 +1,4 @@
-# Diffing Customization
+# 差异化定制
 
 It is possible for an application to be `OutOfSync` even immediately after a successful Sync operation. Some reasons for this might be:
 

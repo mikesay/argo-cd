@@ -1,4 +1,4 @@
-# Plugins
+# 插件
 
 Argo CD allows integrating more config management tools using config management plugins. Following changes are required to configure new plugin:
 

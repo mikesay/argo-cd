@@ -1,4 +1,4 @@
-# Parameter Overrides
+# 参数覆盖
 
 Argo CD provides a mechanism to override the parameters of Argo CD applications that leverages config management
 tools. This provides flexibility in having most of the application manifests defined in Git, while leaving room

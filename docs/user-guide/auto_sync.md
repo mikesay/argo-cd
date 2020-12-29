@@ -1,4 +1,4 @@
-# Automated Sync Policy
+# 自动同步策略
 
 Argo CD has the ability to automatically sync an application when it detects differences between
 the desired manifests in Git, and the live state in the cluster. A benefit of automatic sync is that

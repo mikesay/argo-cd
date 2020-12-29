@@ -1,4 +1,4 @@
-# Status Badge
+# 状态标记
 
 > v1.2
 

@@ -1,4 +1,4 @@
-## argocd-application-controller
+## ArgoCD应用程序控制器
 
 Run ArgoCD Application Controller
 

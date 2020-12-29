@@ -1,4 +1,4 @@
-# Best Practices
+# 最佳实践
 
 ## Separating Config Vs. Source Code Repositories
 

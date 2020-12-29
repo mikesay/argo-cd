@@ -1,4 +1,4 @@
-# Compare Options
+# 比较选项
 
 ## Ignoring Resources That Are Extraneous
 

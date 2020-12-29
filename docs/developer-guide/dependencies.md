@@ -1,4 +1,4 @@
-# Managing Dependencies
+# 管理依赖
 
 ## GitOps Engine (`github.com/argoproj/gitops-engine`)
 

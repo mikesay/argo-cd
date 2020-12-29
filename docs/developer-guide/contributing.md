@@ -1,4 +1,4 @@
-# Contribution guide
+# 贡献指南
 
 ## Preface
 

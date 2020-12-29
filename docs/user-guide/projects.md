@@ -1,4 +1,4 @@
-## Projects
+## 项目
 
 Projects provide a logical grouping of applications, which is useful when Argo CD is used by multiple
 teams. Projects provide the following features:

@@ -52,9 +52,9 @@ nav:
     - operator-manual/notifications.md
     - operator-manual/troubleshooting.md
     - 服务配置参数:
-      - operator-manual/server-commands/argocd-server.md
-      - operator-manual/server-commands/argocd-application-controller.md
-      - operator-manual/server-commands/argocd-repo-server.md
+      - ArogCD服务: operator-manual/server-commands/argocd-server.md
+      - ArgoCD应用程序控制器: operator-manual/server-commands/argocd-application-controller.md
+      - ArgoCD代码仓库服务: operator-manual/server-commands/argocd-repo-server.md
     - argocd-util工具: operator-manual/server-commands/argocd-util.md
     - 升级:
         - operator-manual/upgrading/overview.md
@@ -75,7 +75,7 @@ nav:
     - user-guide/jsonnet.md
     - user-guide/config-management-plugins.md
     - user-guide/tool_detection.md
-    - user-guide/projects.md
+    - 项目: user-guide/projects.md
     - user-guide/private-repositories.md
     - GnuPG验证: user-guide/gpg-verification.md
     - user-guide/auto_sync.md

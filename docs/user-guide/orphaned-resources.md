@@ -1,4 +1,4 @@
-# Orphaned Resources Monitoring
+# 孤立资源监控
 
 Orphaned Kubernetes resource is a top-level namespaced resource which does not belong to any Argo CD Application. The Orphaned Resources Monitoring feature allows detecting
 orphaned resources, generate a warning and inspect/remove resources using Argo CD UI.

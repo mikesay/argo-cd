@@ -1,4 +1,4 @@
-# Selective Sync
+# 选择性同步
 
 A *selective sync* is one where only some resources are sync'd. You can choose which resources from the UI:
 

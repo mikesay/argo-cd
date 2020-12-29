@@ -1,4 +1,4 @@
-# Resource Hooks
+# 资源钩子
 ## Overview
 
 Synchronization can be configured using resource hooks. Hooks are ways to run scripts before, during,

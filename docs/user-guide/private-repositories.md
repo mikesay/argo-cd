@@ -1,4 +1,4 @@
-# Private Repositories
+# 私用仓库
 
 !!!note
     Some Git hosters - notably GitLab and possibly on-premise GitLab instances as well - require you to

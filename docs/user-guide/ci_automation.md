@@ -1,4 +1,4 @@
-# Automation from CI Pipelines
+# CI流水线自动化
 
 Argo CD follows the GitOps model of deployment, where desired configuration changes are first
 pushed to Git, and the cluster state then syncs to the desired state in git. This is a departure

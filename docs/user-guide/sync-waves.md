@@ -1,4 +1,4 @@
-# Sync Phases and Waves
+# 同步周期和编排
 
 >v1.1
 

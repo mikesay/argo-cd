@@ -1,4 +1,4 @@
-## argocd-server
+## ArgoCD服务
 
 Run the ArgoCD API server
 

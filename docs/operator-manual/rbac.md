@@ -1,4 +1,4 @@
-# RBAC Configuration
+# RBAC配置
 
 The RBAC feature enables restriction of access to Argo CD resources. Argo CD does not have its own
 user management system and has only one built-in user `admin`. The `admin` user is a superuser and

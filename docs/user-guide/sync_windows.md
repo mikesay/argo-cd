@@ -1,4 +1,4 @@
-# Sync Windows
+# 同步窗口
 
 Sync windows are configurable windows of time where syncs will either be blocked or allowed. These are defined
 by a kind, which can be either `allow` or `deny`, a `schedule` in cron format and a duration along with one or 

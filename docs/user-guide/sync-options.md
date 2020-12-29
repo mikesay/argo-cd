@@ -1,4 +1,4 @@
-# Sync Options
+# 同步选项
 
 ## No Prune Resources
 

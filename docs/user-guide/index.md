@@ -1,4 +1,4 @@
-# Overview
+# 总览
 
 This guide is for developers who have Argo CD installed for them and are managing applications.
 

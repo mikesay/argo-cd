@@ -1,4 +1,4 @@
-# Releasing
+# 发布
 
 ## Automated release procedure
 

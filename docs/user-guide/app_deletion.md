@@ -1,4 +1,4 @@
-# App Deletion
+# 删除应用程序
 
 Apps can be deleted with or without a cascade option. A **cascade delete**, deletes both the app and its resources, rather than only the app. 
 

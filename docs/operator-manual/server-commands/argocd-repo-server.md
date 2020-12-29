@@ -1,4 +1,4 @@
-## argocd-repo-server
+## ArgoCD代码仓库服务
 
 Run ArgoCD Repository Server
 

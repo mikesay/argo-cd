@@ -1,4 +1,4 @@
-# Tool Detection
+# 工具探测
 
 The tool used to build an application is detected as follows:
 

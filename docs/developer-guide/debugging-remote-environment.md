@@ -1,4 +1,4 @@
-# Debugging a Remote ArgoCD Environment
+# 调试远程的ArgoCD环境
 
 In this guide, we will describe how to debug a remote ArgoCD environment with [Telepresence](https://telepresence.io/).
 

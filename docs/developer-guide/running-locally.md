@@ -1,4 +1,4 @@
-# Running ArgoCD locally
+# 本地运行ArgoCD
 
 ## Run ArgoCD outside of Kubernetes
 
