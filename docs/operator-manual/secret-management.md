@@ -1,4 +1,4 @@
-# Secret Management
+# 机密管理
 
 Argo CD is un-opinionated about how secrets are managed. There's many ways to do it and there's no one-size-fits-all solution. Here's some ways people are doing GitOps secrets:
 

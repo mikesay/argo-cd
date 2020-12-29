@@ -1,4 +1,4 @@
-# Cluster Bootstrapping
+# 集群引导
 
 This guide for operators who have already installed Argo CD, and have a new cluster and are looking to install many apps in that cluster.
 

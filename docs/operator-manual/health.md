@@ -1,4 +1,4 @@
-# Resource Health
+# 资源健康
 
 ## Overview
 Argo CD provides built-in health assessment for several standard Kubernetes types, which is then

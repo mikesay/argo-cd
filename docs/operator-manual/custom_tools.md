@@ -1,4 +1,4 @@
-# Custom Tooling
+# 定制工具
 
 Argo CD bundles preferred versions of its supported templating tools (helm, kustomize, ks, jsonnet)
 as part of its container images. Sometimes, it may be desired to use a specific version of a tool

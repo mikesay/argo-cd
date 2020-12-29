@@ -1,4 +1,4 @@
-# Notifications
+# 通知
 
 The notifications support is not bundled into the Argo CD itself. Instead of reinventing the wheel and implementing opinionated notifications system Argo CD leverages integrations
 with the third-party notification system. Following integrations are recommended:

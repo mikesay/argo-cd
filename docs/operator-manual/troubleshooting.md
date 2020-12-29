@@ -1,4 +1,4 @@
-# Troubleshooting Tools
+# 故障排除工具
 
 The document describes how to use `argocd-tool` binary to simplify Argo CD settings customizations and troubleshot
 connectivity issues.

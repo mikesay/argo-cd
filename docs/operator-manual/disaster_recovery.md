@@ -1,4 +1,4 @@
-# Disaster Recovery
+# 灾难恢复
 
 You can use `argocd-util` to import and export all Argo CD data.
 

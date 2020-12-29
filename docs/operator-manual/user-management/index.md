@@ -1,4 +1,4 @@
-# Overview
+# 总览
 
 Once installed Argo CD has one built-in `admin` user that has full access to the system. It is recommended to use `admin` user only
 for initial configuration and then switch to local users or configure SSO integration.

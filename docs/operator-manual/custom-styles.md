@@ -1,4 +1,4 @@
-# Custom Styles
+# 定制样式
 
 Argo CD has imports the majority of its UI stylesheets from the [argo-ui](https://github.com/argoproj/argo-ui) project.
 Sometimes, it may be desired to customize certain components of the UI for branding purposes or to
