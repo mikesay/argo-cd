@@ -1,4 +1,4 @@
-# Core Concepts
+# 核心概念
 
 Let's assume you're familiar with core Git, Docker, Kubernetes, Continuous Delivery, and GitOps concepts.
 

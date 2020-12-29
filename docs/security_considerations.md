@@ -1,4 +1,4 @@
-# Security Considerations
+# 安全注意事项
 
 As a deployment tool, Argo CD needs to have production access which makes security a very important topic.
 The Argoproj team takes security very seriously and continuously working on improving it. Learn more about security

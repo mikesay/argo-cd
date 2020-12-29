@@ -1,4 +1,4 @@
-site_name: Argo CD - Declarative GitOps CD for Kubernetes
+site_name: Argo CD - Kubernetes的声明式GitOps持续交付
 repo_url: https://github.com/argoproj/argo-cd
 strict: true
 theme:
@@ -20,16 +20,16 @@ markdown_extensions:
 - toc:
     permalink: true
 nav:
-  - Overview: index.md
+  - 总览: index.md
   - understand_the_basics.md
   - core_concepts.md
   - getting_started.md
-  - Operator Manual:
+  - 运维手册:
     - operator-manual/index.md
     - operator-manual/architecture.md
     - operator-manual/declarative-setup.md
     - operator-manual/ingress.md
-    - User Management:
+    - 用户管理:
       - operator-manual/user-management/index.md
       - operator-manual/user-management/auth0.md
       - operator-manual/user-management/microsoft.md
@@ -51,12 +51,12 @@ nav:
     - operator-manual/metrics.md
     - operator-manual/notifications.md
     - operator-manual/troubleshooting.md
-    - Server Configuration Parameters:
+    - 服务配置参数:
       - operator-manual/server-commands/argocd-server.md
       - operator-manual/server-commands/argocd-application-controller.md
       - operator-manual/server-commands/argocd-repo-server.md
-    - argocd-util Tools: operator-manual/server-commands/argocd-util.md
-    - Upgrading:
+    - argocd-util工具: operator-manual/server-commands/argocd-util.md
+    - 升级:
         - operator-manual/upgrading/overview.md
         - operator-manual/upgrading/1.7-1.8.md
         - operator-manual/upgrading/1.6-1.7.md
@@ -66,7 +66,7 @@ nav:
         - operator-manual/upgrading/1.2-1.3.md
         - operator-manual/upgrading/1.1-1.2.md
         - operator-manual/upgrading/1.0-1.1.md
-  - User Guide:
+  - 用户指南:
     - user-guide/index.md
     - user-guide/application_sources.md
     - user-guide/kustomize.md
@@ -77,7 +77,7 @@ nav:
     - user-guide/tool_detection.md
     - user-guide/projects.md
     - user-guide/private-repositories.md
-    - GnuPG verification: user-guide/gpg-verification.md
+    - GnuPG验证: user-guide/gpg-verification.md
     - user-guide/auto_sync.md
     - user-guide/diffing.md
     - user-guide/orphaned-resources.md
@@ -94,8 +94,8 @@ nav:
     - user-guide/app_deletion.md
     - user-guide/best_practices.md
     - user-guide/status-badge.md
-    - Command Reference: user-guide/commands/argocd.md
-  - Developer Guide:
+    - 命令参考: user-guide/commands/argocd.md
+  - 开发指南:
     - developer-guide/index.md
     - developer-guide/contributing.md
     - developer-guide/running-locally.md
@@ -109,7 +109,7 @@ nav:
     - developer-guide/faq.md
   - faq.md
   - security_considerations.md
-  - Support: SUPPORT.md
+  - 支持: SUPPORT.md
   - roadmap.md
-  - Releases ⧉: https://github.com/argoproj/argo-cd/releases
-  - Blog ⧉: https://blog.argoproj.io/
+  - 发布 ⧉: https://github.com/argoproj/argo-cd/releases
+  - 博客 ⧉: https://blog.argoproj.io/

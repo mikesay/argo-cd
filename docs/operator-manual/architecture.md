@@ -1,5 +1,5 @@
 
-# Architectural Overview
+# 架构总览
 
 ![Argo CD Architecture](../assets/argocd_architecture.png)
 

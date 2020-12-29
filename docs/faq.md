@@ -1,4 +1,4 @@
-# FAQ
+# 问答
 
 ## I've deleted/corrupted my repo and can't delete my app.
 
